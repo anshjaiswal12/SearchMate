@@ -47,11 +47,11 @@ By entering "GSOC CERN" as the follow-up string, the script will automatically o
  Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ProfileHunter.git
+   git clone https://github.com/anshjaiswal12/SearchMate.git
    ```
 2. Navigate to the directory:
    ```bash
-   cd ProfileHunter
+   cd SearchMate
    ```
 3. Ensure you have Python installed. This script requires Python 3.x.
 
