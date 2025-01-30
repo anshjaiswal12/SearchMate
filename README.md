@@ -12,9 +12,9 @@ This Python script automates the process of searching for individuals based on t
 
  README:
 
- ProfileHunter - Automated Web Search Tool
+ SearchMate - Automated Web Search Tool
 
-ProfileHunter is a Python-based tool that automates the process of searching for people online by taking a list of names and appending an organization or community name to each search query. This allows you to quickly find profiles of individuals associated with a specific community or organization, saving time and increasing productivity.
+SearchMate is a Python-based tool that automates the process of searching for people online by taking a list of names and appending an organization or community name to each search query. This allows you to quickly find profiles of individuals associated with a specific community or organization, saving time and increasing productivity.
 
 
 
